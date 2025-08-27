@@ -20,7 +20,7 @@ body {
 
 .header {
     background: var(--secondary-color);
-    color: white;
+    color: rosa claro;
     padding: 1rem 0;
     position: fixed;
     width: 100%;
@@ -212,3 +212,4 @@ body {
         text-align: center;
     }
 }
+
