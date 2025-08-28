@@ -2,24 +2,24 @@
 :root {
     /*--primary-color: #light pink;
     --secondary-color: #2c3e50;
-    --text-color: #333333;;
+    --text-color: #negro;;
     --background-color: #f4f4f4;
     --light-gray: #ecf0f1;*/
 }
 
 
 body {
-    font-family: "inter", sans-serif;
+    font-family: "inter", arial;
     line-height: 1.6;
     margin: 0;
     padding: 0;
-    background-color: var(--background-color);
-    color: var(--text-color);
+    background-color: var(blanco);
+    color: var(pink claro);
     scroll-behavior: smooth;
 }
 
 .header {
-    background: var(--secondary-color);
+    background: var(rosa claro);
     color: rosa claro;
     padding: 1rem 0;
     position: fixed;
@@ -212,6 +212,7 @@ body {
         text-align: center;
     }
 }
+
 
 
 
